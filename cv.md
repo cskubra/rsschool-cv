@@ -55,3 +55,52 @@ System Administrator and Social Media Manager
 - Javascript
 - HTML
 - CSS
+
+## EDUCATION
+
+
+- Eskisehir Anadolu University
+Distance Education Faculty
+Web Design and Coding
+
+## EDUCATIONAL BACKGROUND
+
+
+1) Applied Software Testing Expertise (Certified)
+- [BİLGEADAM ACADEMY APRIL 2022](https://www.bilgeadam.com/)
+2) Introduction to Algorithm, Programming and Data
+Structures (Certified)
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+3) Introduction to Programming with JAVA (Certified)
+- [BTK Academy]( https://www.btkakademi.gov.tr)
++) API and API Testing (Certified)
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+5) Applied Business Analytics (Certified)
+- [BİLGEADAM ACADEMY APRIL 2022](https://www.bilgeadam.com/)
+6) Agile Project Management (Certified)
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+7) Software Tester Training: Zero to Advanced
+(Certified)
+- [UDEMY](https://www.udemy.com)
+8) Learning SQL with Applications (Certified)
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+9) WebDriver
+- [EPAM Learn]( https://learn.epam.com)
+10) Version Controls: Git and GitHub (Certified)
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+11) Introduction to Testing
+- [EPAM Learn]( https://learn.epam.com)
+12) Introduction to Testing
+- [EPAM Learn]( https://learn.epam.com)
+13) Software Testing Introduction
+- [EPAM Learn]( https://learn.epam.com)
+14) Software Test Automation
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+15) Linux Operating Systems in Cyber Security
+- [BTK Academy]( https://www.btkakademi.gov.tr)
+16) Software Test Automation
+- [PATIKA](https://www.patika.dev )
+17)  Javascript/Front-end Mentoring Program
+(in English)
+- RS SCHOOL ( rs.school) - START 20 SEPT 2022
+18) [Introduction to Web Accessibility - W3Cx WAI0.1x](https://learning.edx.org)
