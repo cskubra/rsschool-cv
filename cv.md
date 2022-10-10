@@ -25,3 +25,33 @@ and experience about computers and technological devices.*
 - 2022 uTest.com / Manual Tester
 - 2012 ILKUMUT Special Education and Rehabilitation Center /
 System Administrator and Social Media Manager
+
+## LANGUAGE
+
+- Turkish - Native Language
+- English - B2 - Professional working competence 
+
+## SKILLS
+
+
+- Selenium WebDriver
+- Java
+- API Testing
+- SoapUI
+- JUnit
+- TestNG
+- JIRA
+- SDLC
+- OOP
+- Microsoft SQL Server
+- LINUX
+- Git and Github
+- Postman
+- Social Media Management
+- Network Management
+- Photoshop
+- Microsoft Office
+- Team work
+- Javascript
+- HTML
+- CSS
