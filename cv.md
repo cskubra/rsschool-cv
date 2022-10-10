@@ -104,3 +104,9 @@ Structures (Certified)
 (in English)
 - RS SCHOOL ( rs.school) - START 20 SEPT 2022
 18) [Introduction to Web Accessibility - W3Cx WAI0.1x](https://learning.edx.org)
+
+## CODE EXAMPLE
+
+```function (){
+console.log("Hello, World!);
+}```
