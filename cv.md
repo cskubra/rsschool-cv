@@ -12,3 +12,16 @@ and open to self-improvement.*
 *I worked as a System Administrator and Social Media Manager
 at a special education school for 9 years. I have knowledge
 and experience about computers and technological devices.*
+
+## CONTACTS
+
+- Location: Samsun, Türkiye
+- E-mail: cskubra@gmail.com
+- GitHub: cskubra
+
+
+## EXPREIENCE
+
+- 2022 uTest.com / Manual Tester
+- 2012 ILKUMUT Special Education and Rehabilitation Center /
+System Administrator and Social Media Manager
