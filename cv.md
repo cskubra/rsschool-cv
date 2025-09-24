@@ -1,8 +1,4 @@
 # rsschool-cv
-
-https://cskubra.github.io/rsschool-cv/cv <br>
-https://cskubra.github.io/rsschool-cv/
-=======
 ### Kübra Çalışkan
 ### Junior Frontend Developer (try to be)
 
