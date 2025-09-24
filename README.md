@@ -35,21 +35,27 @@ My interest in technology and passion for continuous learning guide me in my car
 
 ### Code example:
 
-**Peak array index KATA from CODEWARS:**
-*Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.*
+**example**
+*This is the traditional way to create a loop, giving you control over the index.*
 
 ```javascript
-function peak(arr) {
+// 1. Let's define an array of strings (city names).
+const cities = ["Istanbul", "London", "Tokyo", "New York"];
 
-  for (let i = 1; i < arr.length - 1; i++) {
-    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
-    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
-    if (leftSum === rightSum) {
-      return i;
-    }
-  }
-  return -1;
+// 2. We will use a for loop to iterate through the array.
+//    - The loop starts with the index at 0 (i = 0).
+//    - It continues as long as the index is less than the array's length.
+//    - The index (i) increases by 1 after each iteration.
+for (let i = 0; i < cities.length; i++) {
+  
+  // 3. Access the element at the current index.
+  let currentCity = cities[i];
+  
+  // 4. Print a message to the console.
+  console.log("Now visiting:", currentCity);
 }
+
+console.log("The tour is complete!");
 ```
 ---
 
