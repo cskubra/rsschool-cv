@@ -1,9 +1,6 @@
 # rsschool-cv
-
 ### Kübra Çalışkan
 ### Junior Frontend Developer (try to be)
-
----
 
 ### Contact information:
 
@@ -17,7 +14,6 @@
 . Web Design and Coding
 **Eskişehir Anadolu University / Distance Education Faculty**
 . Social Services
----
 
 ### Briefly About Myself:
 
@@ -26,7 +22,6 @@ I have laid the theoretical foundations in SQL, HTML, and XPath and I am open to
 I have beginner-level theoretical and practical knowledge in Robot Framework, Selenium, Unittest, and Pytest. My ability to work effectively both in a team and independently, along with my quick learning skills and flexible work approach,  makes me effective in dynamic work environments.<br>
 My interest in technology and passion for continuous learning guide me in my career journey. I aim to add value in the fields of software development and test automation and improve my skills in these sectors.
 
----
 
 ### Skills and Proficiency:
 
@@ -36,7 +31,6 @@ My interest in technology and passion for continuous learning guide me in my car
 - VS Code
 - Adobe Photoshop, Illustrator, InDesign
 
----
 
 ### Code example:
 
@@ -62,7 +56,6 @@ for (let i = 0; i < cities.length; i++) {
 
 console.log("The tour is complete!");
 ```
----
 
 ### Courses:
 
@@ -90,11 +83,11 @@ console.log("The tour is complete!");
 . Certificate Date: 01.2024
 . Issuing Institution: BTK Academy
 
----
 
 ### Languages:
 
 - English \- B2 (Upper-Intermediate) According to EPAM English Test
 - Turkish \- Native
 - Russian \- Basic
->>>>>>> 2607826 (feat: create education history list)
+
+https://cskubra.github.io/rsschool-cv/cv
